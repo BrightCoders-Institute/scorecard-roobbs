@@ -90,7 +90,7 @@ skills:
     - name: Javascript
       level: 60%
       level-name: Competent
-      time: 10 months
+      time: 1 year
 
     - name: React
       level: 40%
@@ -105,12 +105,37 @@ skills:
     - name: Node Js
       level: 20%
       level-name: Novice
-      time: 2 months
+      time: 6 months
 
-    - name: Mongo DB
+    - name: Typescript
       level: 20%
       level-name: Novice
-      time: 2 months
+      time: 6 months
+
+    - name: Non-SQL Databases
+      level: 20%
+      level-name: Novice
+      time: 6 months
+
+    - name: Jest
+      level: 20%
+      level-name: Novice
+      time: 6 months
+
+    - name: Git
+      level: 80%
+      level-name: Competent
+      time: 1 year
+
+    - name: CSS
+      level: 80%
+      level-name: Competent
+      time: 1 year
+
+    - name: SCRUM
+      level: 40%
+      level-name: Advanced beginner
+      time: 6 months
 
 # NO MODIFICAR
 footer: >
