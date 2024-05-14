@@ -124,12 +124,12 @@ skills:
 
     - name: Git
       level: 80%
-      level-name: Competent
+      level-name: Proficient
       time: 1 year
 
     - name: CSS
       level: 80%
-      level-name: Competent
+      level-name: Proficient
       time: 1 year
 
     - name: SCRUM
