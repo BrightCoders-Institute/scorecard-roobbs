@@ -17,9 +17,9 @@ sidebar:
   website: # No agregar http://
   #linkedin: john # solo tu nombre de usuario de linkedin o dejar en blanco
   github: roobbs # solo tu nombre de usuario en github o dejar en blanco
-  gitlab: john # solo tu nombre de usuario en gitlab o dejar en blanco
-  bitbucket: john # solo tu nombre de usuario en bitbucket o dejar en blanco
-  twitter: "@john" # solo tu nombre de usuario en twitter o dejar en blanco
+  gitlab: # solo tu nombre de usuario en gitlab o dejar en blanco
+  bitbucket: # solo tu nombre de usuario en bitbucket o dejar en blanco
+  twitter: # solo tu nombre de usuario en twitter o dejar en blanco
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars: roobbs
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -34,10 +34,10 @@ sidebar:
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Growth Mindset
+    - item: Continuous Learning
       link: # dejar en blanco
 
-    - item: Effective communication
+    - item: Autodidact
       link: # dejar en blanco
 
     - item: Good Team Player
@@ -46,28 +46,19 @@ sidebar:
     - item: Positive Attitude
       link: # dejar en blanco
 
-    - item: Time and Task Management
-      link: # dejar en blanco
-
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    As a Computer Systems Engineering student with a deep passion for technology and programming, I have a keen interest in web, backend and frontend programming. As an autodidact programmer, I have a love for learning and consistently seek to improve my skills by staying up to date with industry best practices and logical thinking. I am proactive, diligent, and thrive in collaborative environments, where I can share my knowledge and learn from others. My passion for technology stems from my belief that it has the potential to make us better individuals, coworkers, and productive members of society. As a future Senior Developer, I am looking for an innovative company here in Mexico, where I can leverage my creativity and problem-solving skills to make an impact in people's lives.
+    As a self-taught enthusiast with a profound interest in technology and programming, I am engaged in exploring various facets of software development. With a focus on both front-end and back-end development, I am dedicating myself to honing my skills through continuous learning and adaptation to this industry. I like collaborative environments, where I can contribute my knowledge while learning from others (this is very important to me). In pursuit of opportunities to utilize my creativity and problem-solving abilities, I am eager to join an team/company where I can keep myself learning and putting my knowlegde in practice.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Bachelor Degree
-    university: Universidad de Colima
+    university: Universidad Técnologica del Norte de Guanajuato
     time: 2018 - 2022
     details: |
-      Facultad de Telemática - Software Engineer.
-
-  - degree: Python Certification
-    university: Udemy
-    time: 2022
-    details: |
-      300 hrs course certification.
+      Innovación de Negocios Area Mercadotecnia
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
@@ -80,19 +71,11 @@ experiences:
       and remote repositories. In addition to developing fundamental skills in software development 
       such as teamwork and effective communication using an agile methodology.
 
-  - role: Project Name
-    time: Sep 2021 - Jan 2022
-    company: BrightCoders
+  - role: React UI update for landing page
+    time: Feb 2024 - Feb 2024
+    company: Freelance
     details: |
-      My role was to design the views with Figma and use React Native for the development of o mobile app designed for... I worked remotely with other 3 team members.
-
-  - role: Full Stack Developer
-    time: Feb 2021 - Aug 2021
-    company: Company Name
-    details: |
-      My role was to create the layout for the website in a responsive way, 
-      create the database logic with SQL, develop the frontend part with jQuery
-      and the backend with PHP and its Codeigniter framework.
+      My role was to update a basic web page using React, implementing new, very straightforward UI remotely.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -107,7 +90,7 @@ skills:
     - name: Javascript
       level: 60%
       level-name: Competent
-      time: 8 months
+      time: 10 months
 
     - name: React
       level: 40%
@@ -117,11 +100,16 @@ skills:
     - name: React Native
       level: 40%
       level-name: Advanced beginner
-      time: 4 months
+      time: 6 months
 
     - name: Node Js
-      level: 40%
-      level-name: Advanced beginner
+      level: 20%
+      level-name: Novice
+      time: 2 months
+
+    - name: Mongo DB
+      level: 20%
+      level-name: Novice
       time: 2 months
 
 # NO MODIFICAR
