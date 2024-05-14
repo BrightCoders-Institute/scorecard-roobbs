@@ -2,33 +2,32 @@
 # Tenga en cuenta que al modificar este archivo, el mínimo error en la sintáxis puede generar errores
 #
 
-
 sidebar:
   about: False # NO MODIFICAR
   education: False # NO MODIFICAR
 
   # Profile information
-  name: John Doe # Escribe tu nombre y apellido (1 nombre y 1 apellido)
+  name: Roberto Carlos Salmerón Cabrera # Escribe tu nombre y apellido (1 nombre y 1 apellido)
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: john@gmail.com
-  phone: 123 123 1234
+  email: carlossalmeroncabrera@gmail.com
+  phone: 418 114 8974
   website: # No agregar http://
-  linkedin: john # solo tu nombre de usuario de linkedin o dejar en blanco
-  github: john # solo tu nombre de usuario en github o dejar en blanco
+  #linkedin: john # solo tu nombre de usuario de linkedin o dejar en blanco
+  github: roobbs # solo tu nombre de usuario en github o dejar en blanco
   gitlab: john # solo tu nombre de usuario en gitlab o dejar en blanco
   bitbucket: john # solo tu nombre de usuario en bitbucket o dejar en blanco
-  twitter: '@john' # solo tu nombre de usuario en twitter o dejar en blanco
+  twitter: "@john" # solo tu nombre de usuario en twitter o dejar en blanco
   stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
+  codewars: roobbs
   goodreads: # Number-Username, e.g. 123456-alandoe
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: B1 Intermediate # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: C2 Proficient # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
@@ -73,7 +72,7 @@ educationcomplete:
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: React Native Developer
-    time: Feb 2022 - Present
+    time: Dec 2023 - May 2024
     company: Bright Coders, Mexico
     details: |
       Develop native applications with technologies such as Javascript and React Native, 
@@ -106,19 +105,24 @@ skills:
 
   toolset:
     - name: Javascript
-      level: 20%
-      level-name: Novice
-      time: 6 months
+      level: 60%
+      level-name: Competent
+      time: 8 months
 
     - name: React
       level: 40%
       level-name: Advanced beginner
-      time: 1 year
+      time: 6 months
 
     - name: React Native
-      level: 80%
-      level-name: Proficient
-      time: 2+ years
+      level: 40%
+      level-name: Advanced beginner
+      time: 4 months
+
+     - name: Node Js
+      level: 40%
+      level-name: Advanced beginner
+      time: 2 months
 
 # NO MODIFICAR
 footer: >
